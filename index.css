@@ -190,3 +190,14 @@ width: 45%;
 text-align: center;
 }
 }
+
+
+.foot-li a{
+    color: rgb(151, 146, 146);
+    text-decoration: none;
+}
+
+.foot-li-t a{
+    color: rgb(17, 143, 48);
+    text-decoration: none;
+}
